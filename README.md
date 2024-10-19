@@ -1,0 +1,1 @@
+# seed-mine-auto-connect-wallet
